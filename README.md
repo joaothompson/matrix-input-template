@@ -13,15 +13,15 @@ Neste exercício você deve escrever uma função que recebe um número inteiro 
 2. Modifique a função dentro do arquivo student.c
 
 # Exemplos
-1. Exemplo 1
-Seja a entrada:
-3
-1.0 3.0 5.0
-2.0 4.0 6.0
-7.0 8.0 9.0
-2
-1 3
-2 3
+1. Exemplo 1\**
+Seja a entrada:\**
+3\**
+1.0 3.0 5.0\**
+2.0 4.0 6.0\**
+7.0 8.0 9.0\**
+2\**
+1 3\**
+2 3\**
 
 O seu objetivo é fazer as trocas de linhas indicadas pelos m pares, neste caso:
 
